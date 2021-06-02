@@ -2,7 +2,7 @@
     "color_scheme": "light",
     "accent_color": "pink",
     "header": {
-        "title": "Nick Magruder",
+        "title": "_nickmagruder",
         "has_nav": true,
         "nav_links": [
             {
@@ -49,24 +49,17 @@
                 "new_window": true
             },
             {
-                "label": "Instagram",
-                "url": "https://www.instagram.com/",
-                "style": "icon",
-                "icon": "instagram",
-                "new_window": true
-            },
-            {
-                "label": "DEV",
-                "url": "https://dev.to/nickmagruder",
-                "style": "icon",
-                "icon": "dev",
-                "new_window": true
-            },
-            {
                 "label": "LinkedIn",
-                "url": "https://www.linkedin.com/",
+                "url": "https://www.linkedin.com/in/nickmagruder/",
                 "style": "icon",
                 "icon": "linkedin",
+                "new_window": true
+            },
+            {
+                "label": "Instagram",
+                "url": "https://www.instagram.com/iamnotatgregs/",
+                "style": "icon",
+                "icon": "instagram",
                 "new_window": true
             }
         ]

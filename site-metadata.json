@@ -2,7 +2,7 @@
     "color_scheme": "light",
     "accent_color": "pink",
     "header": {
-        "title": "Exto",
+        "title": "_nickmagruder",
         "has_nav": true,
         "nav_links": [
             {
@@ -38,39 +38,32 @@
         ]
     },
     "footer": {
-        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=exto&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>",
+        "content": "&copy; Stackbit. All rights reserved.",
         "has_social": true,
         "social_links": [
             {
-                "label": "Twitter",
-                "url": "https://twitter.com/",
+                "label": "GitHub",
+                "url": "https://github.com/nickmagruder",
                 "style": "icon",
-                "icon": "twitter",
-                "new_window": true
-            },
-            {
-                "label": "Instagram",
-                "url": "https://www.instagram.com/",
-                "style": "icon",
-                "icon": "instagram",
-                "new_window": true
-            },
-            {
-                "label": "Dribbble",
-                "url": "https://dribbble.com/",
-                "style": "icon",
-                "icon": "dribbble",
+                "icon": "github",
                 "new_window": true
             },
             {
                 "label": "LinkedIn",
-                "url": "https://www.linkedin.com/",
+                "url": "https://www.linkedin.com/in/nickmagruder/",
                 "style": "icon",
                 "icon": "linkedin",
+                "new_window": true
+            },
+            {
+                "label": "Instagram",
+                "url": "https://www.instagram.com/iamnotatgregs/",
+                "style": "icon",
+                "icon": "instagram",
                 "new_window": true
             }
         ]
     },
-    "title": "Stackbit Exto Theme",
+    "title": "Nick Magruder Portfolio",
     "domain": "https://magruder-portfolio-7e291.netlify.app"
 }

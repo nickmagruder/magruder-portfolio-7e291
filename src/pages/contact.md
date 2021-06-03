@@ -5,7 +5,7 @@ sections:
   - section_id: contact-form
     type: section_form
     content: >-
-      Thanks for checking out my portfolio! If you'd like to get in touch, feel free to use the form below, or send an email to: 
+      Thanks for checking out my portfolio! If you'd like to get in touch, send an email to: 
       [nick@magruder.info](mailto:nick@magruder.info).
     form_id: contactForm
     form_action: /thank-you

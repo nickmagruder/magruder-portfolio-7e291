@@ -1,11 +1,11 @@
 ---
 title: Trail Explorer
 subtitle: 
-date: '2019-05-10'
+date: '2021-06-03'
 thumb_image: images/1_thumb.jpg
-thumb_image_alt: 'White, black, and red shoe sole'
+thumb_image_alt: 'A woman walking down a wooded trail'
 image: images/1.jpg
-image_alt: 'White, black, and red shoe sole'
+image_alt: 'A woman walking down a wooded trail'
 seo:
   title: Trail Explorer
   description: Trail Explorer
@@ -14,10 +14,10 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Project Title 1
+      value: Trail Explorer
       keyName: property
     - name: 'og:description'
-      value: This is the project 1 description
+      value: Trail Finder Application
       keyName: property
     - name: 'og:image'
       value: images/1.jpg
@@ -35,4 +35,8 @@ seo:
 template: project
 ---
 
-Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan sapien blandit ac amet faucibus aliquet placerat commodo. Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan.
+Live Site: <a href="http://www.trailexplorerapp.com/" target="_blank">www.trailexplorerapp.com</a>
+</br></br>
+GitHub: <a href="https://github.com/nickmagruder/trail-explorer" target="_blank">Trail Explorer Repo</a>
+
+An application to find and save hikes that can also be used to tally total miles hiked and track progress. This will allow for personal growth by monitoring physical activity and time in nature. The application will allow you to provide yourown description and rating of each hike in addition to crowd-sourced ratings and descriptions.

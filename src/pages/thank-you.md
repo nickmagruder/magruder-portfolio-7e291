@@ -5,6 +5,4 @@ image_alt: Thank You Led Signage
 template: page
 ---
 
-Thank you for contacting us! We will get back in touch with you soon.
-
-**Have a great day!**
+Thanks for your message! I'll reply as soon as I can.

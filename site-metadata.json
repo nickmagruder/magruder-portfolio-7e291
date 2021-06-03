@@ -1,8 +1,8 @@
 {
-    "color_scheme": "light",
+    "color_scheme": "dark",
     "accent_color": "pink",
     "header": {
-        "title": "_nickmagruder",
+        "title": "nickmagruder",
         "has_nav": true,
         "nav_links": [
             {
@@ -13,16 +13,6 @@
             {
                 "label": "Portfolio",
                 "url": "/portfolio/",
-                "style": "link"
-            },
-            {
-                "label": "Blog",
-                "url": "/blog/",
-                "style": "link"
-            },
-            {
-                "label": "Style Guide",
-                "url": "/style-guide/",
                 "style": "link"
             },
             {

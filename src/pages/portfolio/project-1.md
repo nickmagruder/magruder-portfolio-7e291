@@ -35,7 +35,7 @@ seo:
 template: project
 ---
 
-Live Site: <a href="http://www.trailexplorerapp.com/" target="_blank">www.trailexplorerapp.com</a>
+Live Site: <a href="https://www.trailexplorerapp.com/" target="_blank">www.trailexplorerapp.com</a>
 </br></br>
 GitHub: <a href="https://github.com/nickmagruder/trail-explorer" target="_blank">Trail Explorer Repo</a>
 

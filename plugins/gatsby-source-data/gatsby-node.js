@@ -95,6 +95,7 @@ async function readDirRecursively(dir, options) {
     return _.chain(recFiles).compact().flatten().value();
 }
 
+
 function convertDataFilesToJSON(dataFiles, dataDirPath, reporter) {
     let promises = _.map(dataFiles, filePath => {
         const pathObject = path.parse(filePath);
